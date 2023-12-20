@@ -21,9 +21,8 @@ Dielectrics in Industry: These materials, used in capacitors and semiconductor d
  2. Prediction Approach: A non-linear regression method predicts material performance based on the maximum voltage applied to dielectrics.
  3. Educational Purpose: This example serves as a basic tutorial for students, introducing them to regression approaches.
  4. Code Reference: The Jupyter notebook “Nonlinear_Regression.ipynb” contains the implementation.
-Kernel Variants:
-RBF (Radial Basis Function)
-Second-order polynomial kernel
-Sigmoid kernels
-Note: L2-Regularization is applied to the models.
+ 5. Three different Kernel are implemented: RBF (Radial Basis Function), Second-order polynomial kernel and Sigmoid kernels
+ 6. L2-Regularization is applied to the models.
+
+
 These examples demonstrate the intersection of theory, data, and practical applications, fostering a deeper understanding of machine learning and its impact on real-world challenges.
